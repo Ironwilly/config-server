@@ -1,0 +1,5 @@
+server:
+  port: 8011
+  
+some:
+  value: valor del servidor
